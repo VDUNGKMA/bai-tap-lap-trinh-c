@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625620765 source:c:\users\nguye\onedrive\documents\tong dfay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
